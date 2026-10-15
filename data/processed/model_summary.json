@@ -1,0 +1,17 @@
+{
+  "best_model": "Gradient Boosting",
+  "threshold": 0.18000000000000005,
+  "oof_auc_all": 0.845781568665652,
+  "gains_top20": 0.5053475935828877,
+  "gains_top30": 0.6577540106951871,
+  "assumptions": {
+    "contact_cost": 40.0,
+    "offer_success": 0.25,
+    "months_saved": 12
+  },
+  "test_precision": 0.46956521739130436,
+  "test_recall": 0.8663101604278075,
+  "net_benefit_model": 44422.5,
+  "net_benefit_all": 25284.699999999997,
+  "test_n": 1409
+}

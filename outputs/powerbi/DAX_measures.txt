@@ -1,0 +1,16 @@
+// Copy each measure: Home > New measure > paste > Enter.  Table to hold them: Customers.
+Customers = COUNTROWS(Customers)
+Churned = CALCULATE([Customers], Customers[ChurnFlag] = 1)
+Churn Rate = DIVIDE([Churned], [Customers])
+Monthly Revenue = SUM(Customers[MonthlyCharges])
+Revenue Lost per Month = CALCULATE([Monthly Revenue], Customers[ChurnFlag] = 1)
+Revenue Lost % = DIVIDE([Revenue Lost per Month], [Monthly Revenue])
+Avg Monthly Charge = AVERAGE(Customers[MonthlyCharges])
+Avg Tenure = AVERAGE(Customers[tenure])
+Customer Value (CLV proxy) = [Avg Monthly Charge] * [Avg Tenure]
+Active Customers = CALCULATE([Customers], Customers[ChurnFlag] = 0)
+High-Risk Active = CALCULATE([Customers], Customers[ChurnFlag] = 0, Customers[predicted_churn] = 1)
+Annual Revenue at Risk = CALCULATE(SUM(Customers[expected_annual_revenue_at_risk]), Customers[ChurnFlag] = 0)
+Share of All Churn = DIVIDE([Churned], CALCULATE([Churned], ALL(Customers)))
+Overall Churn Rate = CALCULATE([Churn Rate], ALL(Customers))
+Churn vs Overall (pts) = [Churn Rate] - [Overall Churn Rate]

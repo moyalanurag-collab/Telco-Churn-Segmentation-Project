@@ -1,0 +1,21 @@
+{
+  "name": "Telco Churn",
+  "dataColors": ["#d1495b", "#2e86ab", "#ee964b", "#4c956c", "#f4d35e", "#8d99ae", "#6a4c93", "#1d2433"],
+  "background": "#FFFFFF",
+  "foreground": "#1d2433",
+  "tableAccent": "#2e86ab",
+  "good": "#4c956c",
+  "neutral": "#f4d35e",
+  "bad": "#d1495b",
+  "maximum": "#d1495b",
+  "center": "#f4d35e",
+  "minimum": "#4c956c",
+  "textClasses": {
+    "title": {"fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#1d2433"},
+    "label": {"fontFace": "Segoe UI", "fontSize": 10, "color": "#6b7385"},
+    "callout": {"fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#1d2433"}
+  },
+  "visualStyles": {
+    "*": {"*": {"title": [{"show": true, "fontSize": 14}], "border": [{"show": true, "color": {"solid": {"color": "#e3e6ec"}}, "radius": 8}]}}
+  }
+}
