@@ -1,0 +1,501 @@
+customerID,Segment,risk_band,churn_probability,MonthlyCharges,tenure,Contract,InternetService,PaymentMethod,TechSupport,expected_annual_revenue_at_risk
+5956-YHHRX,Mid-Tenure Fiber At-Risk,Critical,0.8082324529680676,104.35,21,Month-to-month,Fiber optic,Electronic check,No,1012.068677606614
+9094-AZPHK,Mid-Tenure Fiber At-Risk,Critical,0.8417836890178553,100.15,15,Month-to-month,Fiber optic,Electronic check,No,1011.6556374616588
+7145-FEJWU,Mid-Tenure Fiber At-Risk,Critical,0.7851544620698379,105.3,12,Month-to-month,Fiber optic,Electronic check,No,992.1211782714472
+4132-KALRO,Mid-Tenure Fiber At-Risk,Critical,0.8197297183191299,100.85,4,Month-to-month,Fiber optic,Mailed check,Yes,992.0369051098108
+4445-ZJNMU,Mid-Tenure Fiber At-Risk,Critical,0.8307501449489388,99.3,9,Month-to-month,Fiber optic,Credit card (automatic),No,989.9218727211554
+6734-GMPVK,Mid-Tenure Fiber At-Risk,Critical,0.7818604478193477,105.3,5,Month-to-month,Fiber optic,Electronic check,No,987.9588618645276
+4298-OYIFC,Mid-Tenure Fiber At-Risk,Critical,0.7946140866792506,103.45,15,Month-to-month,Fiber optic,Electronic check,Yes,986.4339272036218
+1393-IMKZG,Mid-Tenure Fiber At-Risk,Critical,0.836950804369137,95.85,1,Month-to-month,Fiber optic,Electronic check,Yes,962.6608151853812
+2754-SDJRD,Mid-Tenure Fiber At-Risk,Critical,0.800413936080747,100.15,8,Month-to-month,Fiber optic,Credit card (automatic),Yes,961.937468381842
+5150-ITWWB,Mid-Tenure Fiber At-Risk,Critical,0.8336853761856339,94.85,3,Month-to-month,Fiber optic,Electronic check,No,948.9006951744884
+6215-NQCPY,Mid-Tenure Fiber At-Risk,Critical,0.7899190769771222,99.7,15,Month-to-month,Fiber optic,Electronic check,No,945.059183695429
+7577-SWIFR,New Fiber Switchers,Critical,0.8759913742696395,89.25,1,Month-to-month,Fiber optic,Electronic check,No,938.186761842784
+4929-XIHVW,Mid-Tenure Fiber At-Risk,Critical,0.8178036578142132,95.5,2,Month-to-month,Fiber optic,Credit card (automatic),No,937.2029918550884
+3292-PBZEJ,Mid-Tenure Fiber At-Risk,Critical,0.6943068414598589,111.4,11,Month-to-month,Fiber optic,Electronic check,Yes,928.1493856635396
+4912-PIGUY,New Fiber Switchers,Critical,0.9098093229734636,84.6,1,Month-to-month,Fiber optic,Electronic check,No,923.63842468266
+9290-SHCMB,Mid-Tenure Fiber At-Risk,Critical,0.7939551424744149,96.85,13,Month-to-month,Fiber optic,Electronic check,No,922.7346665837648
+1941-HOSAM,New Fiber Switchers,Critical,0.8481983630584667,90.1,1,Month-to-month,Fiber optic,Electronic check,No,917.072070138814
+4927-WWOOZ,Mid-Tenure Fiber At-Risk,Critical,0.8329460888741254,91.45,2,Month-to-month,Fiber optic,Electronic check,No,914.0750379304652
+1960-UYCNN,Mid-Tenure Fiber At-Risk,Critical,0.7989310331427767,95.25,10,Month-to-month,Fiber optic,Electronic check,No,913.1781708821936
+0365-BZUWY,Mid-Tenure Fiber At-Risk,Critical,0.7375957766645671,102.55,17,Month-to-month,Fiber optic,Electronic check,No,907.6853627634164
+1628-BIZYP,New Fiber Switchers,Critical,0.8875878515669919,85.0,1,Month-to-month,Fiber optic,Electronic check,No,905.3396085983318
+9547-ITEFG,Mid-Tenure Fiber At-Risk,Critical,0.7341588624259676,102.6,9,Month-to-month,Fiber optic,Credit card (automatic),No,903.8963914188512
+8313-NDOIA,Mid-Tenure Fiber At-Risk,Critical,0.7204960086232193,104.15,24,Month-to-month,Fiber optic,Electronic check,No,900.4759115772996
+6350-XFYGW,Mid-Tenure Fiber At-Risk,Critical,0.7857159261859611,94.75,4,Month-to-month,Fiber optic,Electronic check,No,893.3590080734377
+8161-QYMTT,Mid-Tenure Fiber At-Risk,Critical,0.7907238795787024,94.1,7,Month-to-month,Fiber optic,Electronic check,No,892.8854048202705
+5947-SGKCL,Mid-Tenure Fiber At-Risk,Critical,0.7024117204093692,105.35,15,Month-to-month,Fiber optic,Bank transfer (automatic),No,887.9888969415243
+0722-SVSFK,Mid-Tenure Fiber At-Risk,Critical,0.7348920798264785,100.4,7,Month-to-month,Fiber optic,Electronic check,Yes,885.3979777749414
+5995-SNNEW,Mid-Tenure Fiber At-Risk,Critical,0.7033759103513585,104.45,23,Month-to-month,Fiber optic,Electronic check,No,881.6113660343927
+7392-YYPYJ,Mid-Tenure Fiber At-Risk,Critical,0.7268875399015426,100.65,22,Month-to-month,Fiber optic,Electronic check,No,877.9347706930834
+4273-MBHYA,New Fiber Switchers,Critical,0.8184590475596839,89.35,1,Month-to-month,Fiber optic,Electronic check,No,877.551790793493
+7439-DKZTW,New Fiber Switchers,Critical,0.9068762576518412,80.55,1,Month-to-month,Fiber optic,Electronic check,No,876.5865906462697
+3320-VEOYC,Mid-Tenure Fiber At-Risk,Critical,0.7637091406609582,95.6,14,Month-to-month,Fiber optic,Electronic check,No,876.1271261662511
+0916-QOFDP,Mid-Tenure Fiber At-Risk,Critical,0.7598538214054079,95.8,14,Month-to-month,Fiber optic,Electronic check,No,873.5279530876569
+4060-LDNLU,Mid-Tenure Fiber At-Risk,Critical,0.7531457717167446,96.2,7,Month-to-month,Fiber optic,Electronic check,No,869.43147886981
+3489-HHPFY,New Fiber Switchers,Critical,0.8556273330629476,84.05,2,Month-to-month,Fiber optic,Electronic check,No,862.9857281272889
+2545-EBUPK,New Fiber Switchers,Critical,0.8556133726873479,84.05,2,Month-to-month,Fiber optic,Electronic check,No,862.9716476924591
+0771-WLCLA,Mid-Tenure Fiber At-Risk,High,0.6297982735428328,112.95,16,Month-to-month,Fiber optic,Electronic check,Yes,853.6285799599557
+6969-MVBAI,Mid-Tenure Fiber At-Risk,Critical,0.7787334293634122,90.1,9,Month-to-month,Fiber optic,Electronic check,No,841.9665838277211
+3001-UNBTL,Mid-Tenure Fiber At-Risk,Critical,0.6748705296748836,103.95,29,Month-to-month,Fiber optic,Electronic check,No,841.8334987164499
+2018-QKYGT,New Fiber Switchers,Critical,0.8652246312122999,81.05,1,Month-to-month,Fiber optic,Electronic check,No,841.5174763170828
+2254-DLXRI,New Fiber Switchers,Critical,0.8830687807435839,79.15,1,Month-to-month,Fiber optic,Mailed check,No,838.738727950256
+7398-SKNQZ,Mid-Tenure Fiber At-Risk,Critical,0.7320214485083563,94.9,3,Month-to-month,Fiber optic,Electronic check,No,833.6260255613163
+8622-ZLFKO,Mid-Tenure Fiber At-Risk,Critical,0.7600956279454985,90.75,6,Month-to-month,Fiber optic,Electronic check,No,827.7441388326478
+3629-ZNKXA,Mid-Tenure Fiber At-Risk,Critical,0.6753412142938933,101.8,17,Month-to-month,Fiber optic,Electronic check,No,824.99682738142
+3318-NMQXL,New Fiber Switchers,Critical,0.7469001742656985,92.0,3,Month-to-month,Fiber optic,Electronic check,No,824.5777923893312
+5937-EORGB,Mid-Tenure Fiber At-Risk,Critical,0.7117403265773316,96.5,15,Month-to-month,Fiber optic,Electronic check,No,824.19529817655
+5935-FCCNB,Mid-Tenure Fiber At-Risk,Critical,0.727601889389455,94.2,17,Month-to-month,Fiber optic,Electronic check,No,822.48117576584
+5760-IFJOZ,Mid-Tenure Fiber At-Risk,High,0.6322846525221681,107.95,3,Month-to-month,Fiber optic,Mailed check,No,819.0615388772167
+3452-GWUIN,Mid-Tenure Fiber At-Risk,Critical,0.7187167476935608,94.95,19,Month-to-month,Fiber optic,Electronic check,No,818.9058623220432
+7402-EYFXX,Mid-Tenure Fiber At-Risk,Critical,0.7264406736517971,93.6,26,Month-to-month,Fiber optic,Electronic check,No,815.9381646456984
+6137-NICCO,Mid-Tenure Fiber At-Risk,Critical,0.7225074977015848,94.05,6,Month-to-month,Fiber optic,Mailed check,No,815.4219619060086
+5348-CAGXB,Mid-Tenure Fiber At-Risk,Critical,0.7567020046005808,89.55,12,Month-to-month,Fiber optic,Electronic check,No,813.1519741437841
+1173-XZPYF,Mid-Tenure Fiber At-Risk,Critical,0.7567020046005808,89.2,11,Month-to-month,Fiber optic,Electronic check,No,809.9738257244618
+2081-VEYEH,Mid-Tenure Fiber At-Risk,High,0.6243248187495527,107.95,3,Month-to-month,Fiber optic,Electronic check,Yes,808.7503702081706
+6645-MXQJT,Mid-Tenure Fiber At-Risk,Critical,0.6928199598100866,97.1,2,Month-to-month,Fiber optic,Electronic check,No,807.2738171707127
+8739-XNIKG,New Fiber Switchers,Critical,0.7994070251338856,84.0,5,Month-to-month,Fiber optic,Electronic check,No,805.8022813349567
+4395-PZMSN,New Fiber Switchers,Critical,0.7845815098897961,85.55,5,Month-to-month,Fiber optic,Electronic check,No,805.4513780528647
+6583-KQJLK,Mid-Tenure Fiber At-Risk,Critical,0.705275146150751,94.65,15,Month-to-month,Fiber optic,Electronic check,No,801.0515109980232
+4566-NECEV,Mid-Tenure Fiber At-Risk,Critical,0.690668644948203,96.55,5,Month-to-month,Fiber optic,Electronic check,No,800.2086920369879
+0420-HLGXF,Mid-Tenure Fiber At-Risk,Critical,0.66850900044459,99.75,39,Month-to-month,Fiber optic,Electronic check,No,800.2052735321743
+8118-TJAFG,Mid-Tenure Fiber At-Risk,Critical,0.6568749619877772,101.5,9,Month-to-month,Fiber optic,Electronic check,Yes,800.0737037011125
+4115-NZRKS,New Fiber Switchers,Critical,0.7469231280472759,89.15,7,Month-to-month,Fiber optic,Electronic check,No,799.0583623849759
+4847-TAJYI,New Fiber Switchers,Critical,0.7441053865557037,89.35,6,Month-to-month,Fiber optic,Electronic check,No,797.8297954650253
+0187-QSXOE,New Fiber Switchers,Critical,0.7469231280472759,89.0,7,Month-to-month,Fiber optic,Electronic check,No,797.7139007544906
+6630-UJZMY,New Fiber Switchers,Critical,0.7983293602781126,83.25,4,Month-to-month,Fiber optic,Electronic check,No,797.5310309178345
+4234-XTNEA,New Fiber Switchers,Critical,0.8283391831155317,79.95,2,Month-to-month,Fiber optic,Electronic check,No,794.7086122810412
+1452-VOQCH,New Fiber Switchers,Critical,0.8773353609477692,75.1,1,Month-to-month,Fiber optic,Electronic check,No,790.6546272861295
+2107-FBPTK,Mid-Tenure Fiber At-Risk,High,0.6319480611270812,104.1,30,Month-to-month,Fiber optic,Electronic check,No,789.4295179599497
+7225-CBZPL,Mid-Tenure Fiber At-Risk,Critical,0.6911835918668903,94.8,17,Month-to-month,Fiber optic,Electronic check,No,786.2904541077743
+6407-UTSLV,New Fiber Switchers,Critical,0.7811126241607951,83.8,2,Month-to-month,Fiber optic,Bank transfer (automatic),No,785.4868548560954
+3462-BJQQA,Mid-Tenure Fiber At-Risk,Critical,0.7290038968250186,89.75,6,Month-to-month,Fiber optic,Electronic check,No,785.137196880545
+2439-LYPMQ,Mid-Tenure Fiber At-Risk,High,0.6371173183322963,102.6,38,Month-to-month,Fiber optic,Electronic check,No,784.4188423307231
+5091-HFAZW,Mid-Tenure Fiber At-Risk,Critical,0.7152608340210004,91.15,2,Month-to-month,Fiber optic,Electronic check,No,782.3523002521704
+8087-LGYHQ,Mid-Tenure Fiber At-Risk,Critical,0.689405054844765,94.05,9,Month-to-month,Fiber optic,Electronic check,No,778.0625448978017
+1200-TUZHR,New Fiber Switchers,Critical,0.7591218568870609,85.2,8,Month-to-month,Fiber optic,Electronic check,No,776.1261864813312
+4686-UXDML,Mid-Tenure Fiber At-Risk,High,0.6473969462616027,99.85,21,Month-to-month,Fiber optic,Credit card (automatic),No,775.7110210106523
+0021-IKXGC,New Fiber Switchers,Critical,0.8959390602911455,72.1,1,Month-to-month,Fiber optic,Electronic check,No,775.166474963899
+7315-WYOAW,Mid-Tenure Fiber At-Risk,High,0.6405523044658391,100.75,13,Month-to-month,Fiber optic,Electronic check,Yes,774.4277360991995
+5168-MSWXT,Mid-Tenure Fiber At-Risk,Critical,0.6805855625023844,94.75,8,Month-to-month,Fiber optic,Electronic check,No,773.8257845652112
+2080-CAZNM,Premium Loyalists,High,0.6175181495601408,104.4,41,Month-to-month,Fiber optic,Electronic check,No,773.6267377689445
+7426-RHZGU,Mid-Tenure Fiber At-Risk,Critical,0.6719818712786334,95.9,9,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,773.3167374674514
+0480-BIXDE,Mid-Tenure Fiber At-Risk,Critical,0.6631619752155775,96.8,19,Month-to-month,Fiber optic,Electronic check,No,770.3289504104148
+2215-ZAFGX,New Fiber Switchers,Critical,0.7497604860238737,85.5,9,Month-to-month,Fiber optic,Electronic check,No,769.2542586604944
+8818-DOPVL,Premium Loyalists,High,0.6132581545748738,104.45,46,Month-to-month,Fiber optic,Electronic check,No,768.6577709441468
+4716-HHKQH,Mid-Tenure Fiber At-Risk,High,0.5974123600917057,107.05,20,Month-to-month,Fiber optic,Electronic check,Yes,767.4359177738052
+3422-GALYP,New Fiber Switchers,Critical,0.8039169409424037,79.45,2,Month-to-month,Fiber optic,Electronic check,No,766.4544114944878
+5043-TRZWM,New Fiber Switchers,Critical,0.8436987875354548,75.55,1,Month-to-month,Fiber optic,Electronic check,No,764.8973207796432
+3338-CVVEH,Mid-Tenure Fiber At-Risk,Critical,0.6741273741493377,94.55,12,Month-to-month,Fiber optic,Electronic check,No,764.8649187098384
+2984-AFWNC,Mid-Tenure Fiber At-Risk,Critical,0.6676112378923578,95.4,3,Month-to-month,Fiber optic,Electronic check,No,764.2813451391713
+3878-AVSOQ,New Fiber Switchers,Critical,0.8866857325876153,71.25,1,Month-to-month,Fiber optic,Electronic check,No,758.116301362411
+1641-RQDAY,Mid-Tenure Fiber At-Risk,High,0.6282545996705763,100.4,32,Month-to-month,Fiber optic,Electronic check,No,756.9211416831105
+2657-VPXTA,New Fiber Switchers,Critical,0.7081740123369125,88.85,10,Month-to-month,Fiber optic,Electronic check,No,755.055131953616
+6986-IXNDM,Mid-Tenure Fiber At-Risk,Critical,0.6769445576666858,92.9,14,Month-to-month,Fiber optic,Electronic check,No,754.6577928868214
+7668-XCFYV,Mid-Tenure Fiber At-Risk,Critical,0.6743041893814331,92.55,17,Month-to-month,Fiber optic,Electronic check,No,748.8822327270195
+9314-IJWSQ,New Fiber Switchers,Critical,0.7346212637722374,84.8,14,Month-to-month,Fiber optic,Electronic check,No,747.5505980146287
+8800-JOOCF,New Fiber Switchers,Critical,0.7381846341029785,84.05,12,Month-to-month,Fiber optic,Electronic check,No,744.5330219562641
+7858-GTZSP,New Fiber Switchers,Critical,0.7124590111460603,86.55,12,Month-to-month,Fiber optic,Electronic check,No,739.9599289762981
+5542-TBBWB,New Fiber Switchers,Critical,0.8784119145252824,69.9,1,Month-to-month,Fiber optic,Electronic check,No,736.811913903807
+2792-LSHWX,New Fiber Switchers,Critical,0.736163280542726,83.4,1,Month-to-month,Fiber optic,Mailed check,Yes,736.7522111671602
+9919-KNPOO,Mid-Tenure Fiber At-Risk,Critical,0.6504642261337149,94.3,21,Month-to-month,Fiber optic,Electronic check,No,736.0653182929117
+7994-UYIVZ,New Fiber Switchers,Critical,0.7138751990355291,85.65,8,Month-to-month,Fiber optic,Bank transfer (automatic),No,733.7209295687169
+0432-CAJZV,New Fiber Switchers,Critical,0.6738069825629801,90.7,3,Month-to-month,Fiber optic,Mailed check,No,733.3715198215476
+2809-ZMYOQ,Mid-Tenure Fiber At-Risk,High,0.6020793161630541,101.35,32,Month-to-month,Fiber optic,Electronic check,No,732.2488643175063
+9360-OMDZZ,Mid-Tenure Fiber At-Risk,High,0.6480225725665505,94.1,24,Month-to-month,Fiber optic,Electronic check,No,731.7470889421487
+1666-JXLKU,Mid-Tenure Fiber At-Risk,High,0.609410622079242,100.05,37,Month-to-month,Fiber optic,Electronic check,No,731.658392868338
+4813-HQMGZ,Mid-Tenure Fiber At-Risk,Critical,0.6755241888512641,90.25,8,Month-to-month,Fiber optic,Electronic check,Yes,731.592696525919
+5734-EJKXG,Premium Loyalists,High,0.5134213766749568,118.6,61,One year,Fiber optic,Electronic check,Yes,730.7013032837984
+8242-SOQUO,New Fiber Switchers,Critical,0.7182291457799473,84.7,5,Month-to-month,Fiber optic,Electronic check,No,730.0081037707386
+6030-REHUX,Mid-Tenure Fiber At-Risk,High,0.5487731585036791,110.85,28,Month-to-month,Fiber optic,Electronic check,Yes,729.9780554415939
+9957-YODKZ,New Fiber Switchers,Critical,0.7507792068789885,80.8,6,Month-to-month,Fiber optic,Electronic check,No,727.9555189898672
+5183-SNMJQ,Mid-Tenure Fiber At-Risk,High,0.6378423788506721,95.1,10,Month-to-month,Fiber optic,Credit card (automatic),Yes,727.9057227443868
+8775-ERLNB,New Fiber Switchers,Critical,0.8129821557792923,74.3,1,Month-to-month,Fiber optic,Electronic check,No,724.854890092817
+4853-OITSN,Mid-Tenure Fiber At-Risk,Critical,0.67694771721827,89.15,5,Month-to-month,Fiber optic,Electronic check,No,724.1986678801053
+6088-BXMRG,Mid-Tenure Fiber At-Risk,High,0.6089884917652774,98.85,32,Month-to-month,Fiber optic,Electronic check,No,722.3821489319719
+2123-AGEEN,New Fiber Switchers,Critical,0.7134095236698716,84.35,7,Month-to-month,Fiber optic,Electronic check,No,722.113119858644
+3191-CSNMG,New Fiber Switchers,Critical,0.7438951419545867,80.7,3,Month-to-month,Fiber optic,Electronic check,No,720.3880554688219
+5429-LWCMV,Mid-Tenure Fiber At-Risk,Critical,0.6728204445299815,89.15,12,Month-to-month,Fiber optic,Electronic check,No,719.7833115581743
+8266-VBFQL,Mid-Tenure Fiber At-Risk,Critical,0.6632490323032457,90.4,4,Month-to-month,Fiber optic,Electronic check,Yes,719.492550242561
+9741-YLNTD,Mid-Tenure Fiber At-Risk,Critical,0.6817087723540776,87.95,6,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,719.4754383424935
+8309-IEYJD,New Fiber Switchers,Critical,0.8487933313100391,70.6,1,Month-to-month,Fiber optic,Mailed check,No,719.0977102858651
+7952-OBOYL,Mid-Tenure Fiber At-Risk,Critical,0.6664698242073657,89.85,3,Month-to-month,Fiber optic,Mailed check,Yes,718.5877644603815
+5630-IXDXV,Premium Loyalists,High,0.5627726856029034,106.35,47,Month-to-month,Fiber optic,Electronic check,No,718.2105013664252
+9605-WGJVW,New Fiber Switchers,Critical,0.8506391601353773,70.2,1,Month-to-month,Fiber optic,Electronic check,No,716.578428498042
+1028-FFNJK,Mid-Tenure Fiber At-Risk,High,0.5862775466491651,101.5,30,Month-to-month,Fiber optic,Electronic check,Yes,714.0860518186831
+2018-PZKMU,Mid-Tenure Fiber At-Risk,High,0.5767201677288257,103.1,9,Month-to-month,Fiber optic,Electronic check,Yes,713.5181915141031
+5382-SOYZL,Mid-Tenure Fiber At-Risk,High,0.6247616436002285,95.1,22,Month-to-month,Fiber optic,Electronic check,No,712.9779876765806
+6786-OBWQR,New Fiber Switchers,Critical,0.7348414141446493,80.85,5,Month-to-month,Fiber optic,Electronic check,No,712.9431400031388
+4884-ZTHVF,New Fiber Switchers,Critical,0.6810444348566838,87.1,8,Month-to-month,Fiber optic,Electronic check,No,711.8276433122057
+8709-KRDVL,Mid-Tenure Fiber At-Risk,High,0.5915736047623921,100.0,33,Month-to-month,Fiber optic,Electronic check,No,709.8883257148705
+9603-OAIHC,New Fiber Switchers,Critical,0.8444331976683747,70.05,1,Month-to-month,Fiber optic,Electronic check,No,709.8305459600357
+6229-LSCKB,New Fiber Switchers,Critical,0.7392960925295454,79.7,6,Month-to-month,Fiber optic,Electronic check,No,707.0627828952573
+3096-GKWEB,Mid-Tenure Fiber At-Risk,High,0.6218110567523356,94.75,18,Month-to-month,Fiber optic,Electronic check,No,706.9991715274056
+5032-MIYKT,New Fiber Switchers,Critical,0.832655926807418,70.7,1,Month-to-month,Fiber optic,Mailed check,No,706.4252883034135
+4123-DVHPH,Mid-Tenure Fiber At-Risk,Critical,0.6672081882751968,88.05,9,Month-to-month,Fiber optic,Electronic check,No,704.9721717315729
+3588-WSTTJ,Mid-Tenure Fiber At-Risk,High,0.5930157469685764,99.05,35,Month-to-month,Fiber optic,Electronic check,No,704.8585168468499
+1746-TGTWV,New Fiber Switchers,Critical,0.7776231117246979,75.35,1,Month-to-month,Fiber optic,Credit card (automatic),No,703.1268176214718
+2135-DQWAQ,New Fiber Switchers,Critical,0.6860144671303068,85.3,5,Month-to-month,Fiber optic,Mailed check,No,702.204408554582
+3855-ONCAR,New Fiber Switchers,Critical,0.7416186104197301,78.9,4,Month-to-month,Fiber optic,Mailed check,No,702.1645003454005
+6357-JJPQT,New Fiber Switchers,Critical,0.7263755571163876,80.5,3,Month-to-month,Fiber optic,Electronic check,No,701.6787881744303
+6851-WEFYX,Mid-Tenure Fiber At-Risk,High,0.5783597979962732,100.8,35,Month-to-month,Fiber optic,Electronic check,No,699.5840116562921
+0434-CSFON,Premium Loyalists,High,0.5791534459499462,100.5,47,Month-to-month,Fiber optic,Electronic check,No,698.4590558156351
+9927-DSWDF,Mid-Tenure Fiber At-Risk,High,0.5563034885682988,104.6,22,Month-to-month,Fiber optic,Electronic check,Yes,698.2721388509285
+6559-PDZLR,Mid-Tenure Fiber At-Risk,High,0.5889848442056181,98.65,26,Month-to-month,Fiber optic,Electronic check,Yes,697.2402585706109
+9840-EFJQB,New Fiber Switchers,Critical,0.781017482587135,74.35,1,Month-to-month,Fiber optic,Electronic check,No,696.8237979642417
+2665-NPTGL,Mid-Tenure Fiber At-Risk,High,0.5913124161418841,98.1,26,Month-to-month,Fiber optic,Bank transfer (automatic),No,696.0929762822259
+2789-HQBOU,New Fiber Switchers,Critical,0.7195185319377624,80.35,3,Month-to-month,Fiber optic,Electronic check,No,693.7597684943904
+7748-UMTRK,Mid-Tenure Fiber At-Risk,High,0.5702681798594873,101.3,30,Month-to-month,Fiber optic,Electronic check,Yes,693.2179994371927
+6435-SRWBJ,Mid-Tenure Fiber At-Risk,Critical,0.6970882568458454,82.75,5,Month-to-month,Fiber optic,Electronic check,Yes,692.2086390479245
+1104-TNLZA,Mid-Tenure Fiber At-Risk,High,0.544801960138748,105.8,28,Month-to-month,Fiber optic,Electronic check,Yes,691.6805685921545
+8903-WMRNW,Mid-Tenure Fiber At-Risk,High,0.565894342627759,101.75,15,Month-to-month,Fiber optic,Electronic check,No,690.9569923484937
+7465-ZZRVX,New Fiber Switchers,Critical,0.8176558040847035,70.35,1,Month-to-month,Fiber optic,Electronic check,No,690.2650298083066
+1640-PLFMP,New Fiber Switchers,Critical,0.817047099020677,70.25,1,Month-to-month,Fiber optic,Electronic check,No,688.7707044744307
+2985-FMWYF,Mid-Tenure Fiber At-Risk,High,0.6131258707247313,93.5,23,Month-to-month,Fiber optic,Electronic check,No,687.9272269531485
+4559-UWIHT,Mid-Tenure Fiber At-Risk,Critical,0.6935080041576637,82.65,14,Month-to-month,Fiber optic,Electronic check,No,687.8212385235709
+8059-UDZFY,Mid-Tenure Fiber At-Risk,High,0.5438043485560491,105.35,33,Month-to-month,Fiber optic,Bank transfer (automatic),No,687.4774574445571
+4090-KPJIP,New Fiber Switchers,Critical,0.764139992225278,74.95,3,Month-to-month,Fiber optic,Electronic check,No,687.267509007415
+1197-BVMVG,New Fiber Switchers,Critical,0.7679759454787257,74.45,4,Month-to-month,Fiber optic,Electronic check,No,686.1097096906936
+2876-GZYZC,New Fiber Switchers,Critical,0.6649391870495769,85.95,13,Month-to-month,Fiber optic,Electronic check,No,685.8182775229336
+9279-CJEOJ,Mid-Tenure Fiber At-Risk,High,0.5989703432332963,95.4,21,Month-to-month,Fiber optic,Bank transfer (automatic),No,685.7012489334778
+1751-NCDLI,Premium Loyalists,High,0.5775833742946954,98.85,46,Month-to-month,Fiber optic,Electronic check,No,685.1293985883676
+4633-MKHYU,New Fiber Switchers,High,0.6456325074733841,88.4,9,Month-to-month,Fiber optic,Mailed check,No,684.8869639277659
+1932-UEDCX,Mid-Tenure Fiber At-Risk,High,0.5656666679249196,100.6,33,Month-to-month,Fiber optic,Bank transfer (automatic),No,682.8728015189629
+2880-FPNAE,New Fiber Switchers,Critical,0.7666508120484673,74.2,2,Month-to-month,Fiber optic,Electronic check,No,682.6258830479553
+9133-AYJZG,Mid-Tenure Fiber At-Risk,High,0.5756968328883394,98.7,23,Month-to-month,Fiber optic,Credit card (automatic),No,681.8553288729493
+2077-MPJQO,New Fiber Switchers,Critical,0.7504014865128088,75.4,7,Month-to-month,Fiber optic,Electronic check,No,678.9632649967895
+3916-NRPAP,New Fiber Switchers,Critical,0.6587873957505732,85.7,3,Month-to-month,Fiber optic,Credit card (automatic),No,677.4969577898895
+2697-NQBPF,Mid-Tenure Fiber At-Risk,High,0.5356470421277201,105.35,34,Month-to-month,Fiber optic,Electronic check,Yes,677.1649906578637
+8107-KNCIM,New Fiber Switchers,Critical,0.748664687827146,75.1,14,Month-to-month,Fiber optic,Electronic check,No,674.6966166698239
+2920-RNCEZ,New Fiber Switchers,Critical,0.8034332707631119,69.95,1,Month-to-month,Fiber optic,Credit card (automatic),No,674.4018874785562
+0225-ZORZP,New Fiber Switchers,Critical,0.6659980304557753,84.3,3,Month-to-month,Fiber optic,Electronic check,No,673.7236076090622
+8035-PWSEV,Mid-Tenure Fiber At-Risk,High,0.6271466858958273,89.25,6,Month-to-month,Fiber optic,Electronic check,Yes,671.674100594431
+4749-OJKQU,New Fiber Switchers,Critical,0.739652637044592,75.65,4,Month-to-month,Fiber optic,Electronic check,No,671.4566639090807
+4062-HBMOS,Premium Loyalists,High,0.5419491291074678,103.05,52,Month-to-month,Fiber optic,Electronic check,No,670.1742930542947
+1866-OBPNR,New Fiber Switchers,Critical,0.7486117152186793,74.6,1,Month-to-month,Fiber optic,Credit card (automatic),No,670.1572074637617
+2371-JQHZZ,Mid-Tenure Fiber At-Risk,High,0.5995433939667062,93.0,24,Month-to-month,Fiber optic,Electronic check,No,669.0904276668441
+3420-YJLQT,New Fiber Switchers,Critical,0.7005982883761254,79.55,2,Month-to-month,Fiber optic,Electronic check,No,668.7911260838492
+2674-MIAHT,New Fiber Switchers,Critical,0.6938844860484805,80.3,4,Month-to-month,Fiber optic,Mailed check,No,668.6270907563157
+9121-PHQSR,New Fiber Switchers,Critical,0.6535125079642408,85.05,16,Month-to-month,Fiber optic,Credit card (automatic),No,666.9748656283041
+2800-QQUSO,Mid-Tenure Fiber At-Risk,High,0.5535128530524077,100.3,42,Month-to-month,Fiber optic,Electronic check,Yes,666.2080699338778
+1472-TNCWL,Mid-Tenure Fiber At-Risk,High,0.5855070776524792,94.7,36,Month-to-month,Fiber optic,Electronic check,No,665.3702430442775
+9334-GWGOW,New Fiber Switchers,Critical,0.7395287020052177,74.85,7,Month-to-month,Fiber optic,Electronic check,No,664.2446801410865
+6267-DCFFZ,Mid-Tenure Fiber At-Risk,High,0.613399948790831,90.05,30,Month-to-month,Fiber optic,Electronic check,No,662.839984663372
+3211-AAPKX,Mid-Tenure Fiber At-Risk,High,0.5595704284307157,98.55,20,Month-to-month,Fiber optic,Mailed check,Yes,661.7479886621643
+2959-FENLU,New Fiber Switchers,High,0.6462911158287754,85.3,9,Month-to-month,Fiber optic,Credit card (automatic),No,661.5435861623345
+0258-NOKBL,Mid-Tenure Fiber At-Risk,High,0.6095188181552957,90.4,3,Month-to-month,Fiber optic,Electronic check,No,661.2060139348649
+9643-AVVWI,New Fiber Switchers,Critical,0.6877030039533276,80.0,3,Month-to-month,Fiber optic,Electronic check,Yes,660.1948837951945
+3904-UKFRE,New Fiber Switchers,Critical,0.6855032817810939,80.1,4,Month-to-month,Fiber optic,Electronic check,No,658.9057544479874
+2262-SLNVK,New Fiber Switchers,Critical,0.7828982913439123,70.1,1,Month-to-month,Fiber optic,Electronic check,No,658.5740426784989
+3295-YVUSR,New Fiber Switchers,Critical,0.7556879196405609,72.6,2,Month-to-month,Fiber optic,Mailed check,No,658.3553155908567
+9050-IKDZA,New Fiber Switchers,Critical,0.6726915545596062,81.5,2,Month-to-month,Fiber optic,Mailed check,No,657.8923403592948
+0396-YCHWO,Mid-Tenure Fiber At-Risk,High,0.5745628481076347,95.4,36,Month-to-month,Fiber optic,Electronic check,No,657.7595485136203
+2824-MYYBN,Mid-Tenure Fiber At-Risk,High,0.5744776326926191,95.25,37,Month-to-month,Fiber optic,Electronic check,No,656.6279341676636
+8875-AKBYH,Mid-Tenure Fiber At-Risk,High,0.6464428100309998,84.35,20,Month-to-month,Fiber optic,Electronic check,No,654.3294123133779
+5216-WASFJ,Mid-Tenure Fiber At-Risk,High,0.6405634381774581,84.85,31,Month-to-month,Fiber optic,Electronic check,No,652.2216927522878
+6923-JHPMP,New Fiber Switchers,Critical,0.6754015948375254,80.45,2,Month-to-month,Fiber optic,Electronic check,No,652.0326996561471
+9617-INGJY,New Fiber Switchers,Critical,0.769426543567755,70.6,1,Month-to-month,Fiber optic,Mailed check,No,651.858167710602
+0793-TWELN,New Fiber Switchers,Critical,0.6758966058608926,80.15,4,Month-to-month,Fiber optic,Electronic check,No,650.0773555170066
+9129-UXERG,Mid-Tenure Fiber At-Risk,High,0.5204048327722084,103.6,18,Month-to-month,Fiber optic,Credit card (automatic),Yes,646.9672881024094
+7048-GXDAY,Premium Loyalists,High,0.5057386561278678,106.4,39,Month-to-month,Fiber optic,Electronic check,No,645.7271161440617
+8734-DKSTZ,New Fiber Switchers,High,0.6253916682933285,85.95,10,Month-to-month,Fiber optic,Electronic check,No,645.028966677739
+8714-CTZJW,New Fiber Switchers,High,0.6487528580223848,82.85,4,Month-to-month,Fiber optic,Credit card (automatic),No,644.9900914458549
+9093-FPDLG,Mid-Tenure Fiber At-Risk,High,0.5705620859542244,94.2,11,Month-to-month,Fiber optic,Electronic check,Yes,644.9633819626554
+1212-GLHMD,New Fiber Switchers,High,0.6240676583596902,86.05,3,Month-to-month,Fiber optic,Mailed check,No,644.412264022216
+8800-ZKRFW,Mid-Tenure Fiber At-Risk,High,0.4983915194379911,107.5,30,Month-to-month,Fiber optic,Electronic check,Yes,642.9250600750086
+6833-JMZYP,Mid-Tenure Fiber At-Risk,High,0.5691821413719149,94.0,15,Month-to-month,Fiber optic,Credit card (automatic),No,642.03745546752
+5599-HVLTW,New Fiber Switchers,Critical,0.6658681883608006,80.35,14,Month-to-month,Fiber optic,Bank transfer (automatic),No,642.030107217484
+9508-ILZDG,Mid-Tenure Fiber At-Risk,High,0.5545196563065494,96.35,34,Month-to-month,Fiber optic,Electronic check,Yes,641.1356266216324
+0840-DFEZH,New Fiber Switchers,Critical,0.7087896808757485,75.35,7,Month-to-month,Fiber optic,Electronic check,No,640.8876294478517
+7901-TBKJX,Premium Loyalists,High,0.5283244046381533,101.05,56,Month-to-month,Fiber optic,Electronic check,No,640.6461730642247
+9529-OFXHY,Mid-Tenure Fiber At-Risk,High,0.6050740667886001,87.75,15,Month-to-month,Fiber optic,Bank transfer (automatic),No,637.1429923283958
+7394-LWLYN,New Fiber Switchers,Critical,0.756040146949015,70.15,2,Month-to-month,Fiber optic,Electronic check,No,636.4345957016809
+2786-GCDPI,Premium Loyalists,High,0.5052945650716363,104.95,50,Month-to-month,Fiber optic,Electronic check,Yes,636.3679752512188
+6591-QGOYB,Mid-Tenure Fiber At-Risk,High,0.4972006218285509,106.65,17,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,636.3173558161797
+6496-JDSSB,New Fiber Switchers,Critical,0.6608488922135265,80.0,8,Month-to-month,Fiber optic,Bank transfer (automatic),No,634.4149365249855
+5692-ICXLW,Mid-Tenure Fiber At-Risk,High,0.5816582772722434,90.7,31,Month-to-month,Fiber optic,Electronic check,No,633.0768689831098
+3384-CTMSF,Premium Loyalists,High,0.5063668416923569,104.1,47,Month-to-month,Fiber optic,Electronic check,No,632.5534586420922
+0168-XZKBB,Mid-Tenure Fiber At-Risk,High,0.6063304366494912,86.85,19,Month-to-month,Fiber optic,Electronic check,No,631.9175810760996
+6242-MBHPK,Mid-Tenure Fiber At-Risk,High,0.5536455110627897,95.1,23,Month-to-month,Fiber optic,Electronic check,No,631.8202572248555
+2675-DHUTR,Premium Loyalists,High,0.5322091038724001,98.9,58,Month-to-month,Fiber optic,Electronic check,No,631.6257644757645
+1219-NNDDO,New Fiber Switchers,Critical,0.6840441226483205,76.85,9,Month-to-month,Fiber optic,Electronic check,No,630.8254899062811
+0928-XUTSN,New Fiber Switchers,Critical,0.6527771693260106,80.5,13,Month-to-month,Fiber optic,Electronic check,No,630.5827455689263
+2378-VTKDH,Premium Loyalists,High,0.5035693277728267,104.35,65,Month-to-month,Fiber optic,Electronic check,No,630.5695122371335
+2603-HVKCG,Mid-Tenure Fiber At-Risk,High,0.5175395886563912,101.4,31,Month-to-month,Fiber optic,Electronic check,No,629.7421714770968
+4482-EWFMI,New Fiber Switchers,Critical,0.7524230652743461,69.7,2,Month-to-month,Fiber optic,Electronic check,No,629.3266517954631
+2038-OEQZH,New Fiber Switchers,High,0.6089129166826083,86.05,4,Month-to-month,Fiber optic,Electronic check,No,628.7634777664613
+6034-YMTOB,New Fiber Switchers,Critical,0.6916805140088274,75.65,5,Month-to-month,Fiber optic,Mailed check,Yes,627.9075706172135
+4238-JSSWH,Mid-Tenure Fiber At-Risk,High,0.5124442627861485,102.05,35,Month-to-month,Fiber optic,Bank transfer (automatic),No,627.5392442079175
+7714-YXSMB,Mid-Tenure Fiber At-Risk,High,0.5200209659183157,100.5,26,Month-to-month,Fiber optic,Bank transfer (automatic),No,627.1452848974888
+2325-NBPZG,New Fiber Switchers,Critical,0.70081198127065,74.55,3,Month-to-month,Fiber optic,Electronic check,No,626.9463984447234
+4770-UEZOX,New Fiber Switchers,Critical,0.6988163181723251,74.75,2,Month-to-month,Fiber optic,Electronic check,No,626.8382374005756
+3597-MVHJT,Mid-Tenure Fiber At-Risk,High,0.5460365573317666,95.6,27,Month-to-month,Fiber optic,Bank transfer (automatic),No,626.4131385710025
+3317-VLGQT,New Fiber Switchers,Critical,0.6678807883396758,78.1,14,Month-to-month,Fiber optic,Electronic check,No,625.9378748319441
+5117-IFGPS,Mid-Tenure Fiber At-Risk,High,0.6185276646217287,84.3,29,Month-to-month,Fiber optic,Electronic check,No,625.7025855313407
+7379-FNIUJ,Mid-Tenure Fiber At-Risk,High,0.5194134124936144,100.2,2,Month-to-month,Fiber optic,Electronic check,No,624.542687182322
+8040-MNRTF,New Fiber Switchers,Critical,0.7315387686535362,71.1,1,Month-to-month,Fiber optic,Mailed check,No,624.148877415197
+9208-OLGAQ,Mid-Tenure Fiber At-Risk,High,0.6113228073271305,84.95,18,Month-to-month,Fiber optic,Electronic check,No,623.1824697892769
+5934-RMPOV,Mid-Tenure Fiber At-Risk,High,0.6120283064316903,84.75,22,Month-to-month,Fiber optic,Electronic check,No,622.432787641029
+8132-YPVBX,New Fiber Switchers,High,0.603478989031791,85.95,6,Month-to-month,Fiber optic,Mailed check,No,622.4282292873893
+1226-IENZN,New Fiber Switchers,Critical,0.6584833454138812,78.75,16,Month-to-month,Fiber optic,Electronic check,No,622.2667614161178
+6918-UMQCG,New Fiber Switchers,High,0.6457779049063161,80.2,5,Month-to-month,Fiber optic,Electronic check,No,621.4966556818388
+3199-XGZCY,New Fiber Switchers,Critical,0.6879903459983273,75.25,8,Month-to-month,Fiber optic,Electronic check,No,621.2552824364896
+5928-QLDHB,New Fiber Switchers,Critical,0.6782450942254535,76.25,9,Month-to-month,Fiber optic,Electronic check,No,620.59426121629
+3951-NJCVI,Mid-Tenure Fiber At-Risk,High,0.5438636978984935,95.05,42,Month-to-month,Fiber optic,Electronic check,No,620.3309338230217
+4536-PLEQY,New Fiber Switchers,High,0.6072242951462834,85.05,12,Month-to-month,Fiber optic,Credit card (automatic),No,619.7331156262968
+9714-EDSUC,Mid-Tenure Fiber At-Risk,High,0.5431488981783813,94.9,4,Month-to-month,Fiber optic,Mailed check,Yes,618.5379652455407
+2897-DOVND,New Fiber Switchers,Critical,0.7381777154566007,69.8,2,Month-to-month,Fiber optic,Electronic check,No,618.2976544664486
+2832-KJCRD,Mid-Tenure Fiber At-Risk,High,0.4969351909805581,103.65,38,Month-to-month,Fiber optic,Electronic check,Yes,618.0879905416183
+1689-YQBYY,New Fiber Switchers,Critical,0.6690135917480368,76.6,12,Month-to-month,Fiber optic,Electronic check,No,614.9572935347953
+6116-RFVHN,Mid-Tenure Fiber At-Risk,High,0.5095964252845497,100.45,34,Month-to-month,Fiber optic,Electronic check,No,614.2675310379963
+0447-RXSGD,Mid-Tenure Fiber At-Risk,High,0.5133510521286759,99.65,24,Month-to-month,Fiber optic,Bank transfer (automatic),No,613.8651881354708
+7852-LECYP,Mid-Tenure Fiber At-Risk,High,0.5449117538806637,93.8,13,Month-to-month,Fiber optic,Credit card (automatic),No,613.3526701680751
+2587-EKXTS,Premium Loyalists,High,0.4573531670657057,111.5,44,Month-to-month,Fiber optic,Electronic check,No,611.9385375339143
+3545-CNWRG,Premium Loyalists,High,0.5183238164405978,98.35,49,Month-to-month,Fiber optic,Electronic check,No,611.7257681631934
+5647-FXOTP,Premium Loyalists,High,0.4806803115911096,105.9,60,Month-to-month,Fiber optic,Electronic check,No,610.8485399699822
+1766-GKNMI,Mid-Tenure Fiber At-Risk,High,0.5994986367780865,84.9,29,Month-to-month,Fiber optic,Electronic check,No,610.7692111495145
+7508-SMHXL,Mid-Tenure Fiber At-Risk,High,0.5717698639137673,89.0,15,Month-to-month,Fiber optic,Credit card (automatic),No,610.6502146599034
+4059-IIEBK,New Fiber Switchers,High,0.6471949544904922,78.55,7,Month-to-month,Fiber optic,Bank transfer (automatic),No,610.0459641027379
+7517-LDMPS,New Fiber Switchers,High,0.6007256578321092,84.6,12,Month-to-month,Fiber optic,Electronic check,No,609.8566878311572
+2424-WVHPL,New Fiber Switchers,Critical,0.6802365973159747,74.7,1,Month-to-month,Fiber optic,Electronic check,Yes,609.7640858340399
+7363-QTBIW,New Fiber Switchers,High,0.6362566504736034,79.75,9,Month-to-month,Fiber optic,Electronic check,No,608.8976145032384
+7354-OIJLX,New Fiber Switchers,Critical,0.667596378645308,75.85,9,Month-to-month,Fiber optic,Electronic check,No,607.6462238429592
+9168-INPSZ,Premium Loyalists,High,0.4860816055097245,104.15,44,Month-to-month,Fiber optic,Electronic check,Yes,607.5047905660539
+1421-HCERK,Mid-Tenure Fiber At-Risk,High,0.4788920889437146,105.7,30,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,607.4267256162076
+9696-RMYBA,New Fiber Switchers,High,0.6316312001818685,80.1,5,Month-to-month,Fiber optic,Mailed check,No,607.123909614812
+0848-ZGQIJ,Mid-Tenure Fiber At-Risk,High,0.5344476731491986,94.65,16,Month-to-month,Fiber optic,Bank transfer (automatic),No,607.0256671628599
+5288-AHOUP,New Fiber Switchers,High,0.6437359098470602,78.5,11,Month-to-month,Fiber optic,Electronic check,No,606.3992270759308
+9402-ORRAH,Mid-Tenure Fiber At-Risk,High,0.5514810490886037,91.5,15,Month-to-month,Fiber optic,Electronic check,No,605.5261918992869
+6377-WHAOX,Premium Loyalists,High,0.4748334945331496,106.15,60,Month-to-month,Fiber optic,Electronic check,No,604.842905336326
+3644-QXEHN,Mid-Tenure Fiber At-Risk,High,0.5187488260412685,97.0,13,Month-to-month,Fiber optic,Electronic check,No,603.8236335120365
+3370-HXOPH,New Fiber Switchers,Critical,0.6610808995091356,76.1,3,Month-to-month,Fiber optic,Electronic check,No,603.6990774317426
+0139-IVFJG,Mid-Tenure Fiber At-Risk,High,0.5564728039363075,90.35,2,Month-to-month,Fiber optic,Electronic check,No,603.3278140277445
+0147-ESWWR,Mid-Tenure Fiber At-Risk,High,0.4963279527224132,101.25,39,Month-to-month,Fiber optic,Electronic check,Yes,603.038462557732
+6856-RAURS,New Fiber Switchers,Critical,0.6708354298205503,74.9,2,Month-to-month,Fiber optic,Mailed check,No,602.9468843227107
+2688-BHGOG,New Fiber Switchers,High,0.6309632864820446,79.55,9,Month-to-month,Fiber optic,Electronic check,No,602.3175532757597
+3427-GGZZI,Mid-Tenure Fiber At-Risk,High,0.5621664446898023,89.1,19,Month-to-month,Fiber optic,Electronic check,No,601.0683626623364
+1251-STYSZ,New Fiber Switchers,High,0.6240054073519884,80.25,4,Month-to-month,Fiber optic,Electronic check,No,600.9172072799648
+7928-VJYAB,New Fiber Switchers,High,0.5520348357228497,90.6,11,Month-to-month,Fiber optic,Electronic check,No,600.1722733978821
+1320-REHCS,Premium Loyalists,High,0.4515768389842084,110.75,52,Month-to-month,Fiber optic,Electronic check,Yes,600.145619010013
+4137-BTIKL,Mid-Tenure Fiber At-Risk,High,0.5507821162919405,90.75,2,Month-to-month,Fiber optic,Mailed check,No,599.8017246419232
+8541-QVFKM,New Fiber Switchers,Critical,0.6799758613803406,73.5,8,Month-to-month,Fiber optic,Electronic check,No,599.7387097374605
+7181-OQCUT,Mid-Tenure Fiber At-Risk,High,0.4803424919394792,103.85,21,Month-to-month,Fiber optic,Mailed check,No,598.6028134549789
+5701-YVSVF,New Fiber Switchers,High,0.6016148068338801,82.9,11,Month-to-month,Fiber optic,Electronic check,Yes,598.486409838344
+2874-YXVVA,Mid-Tenure Fiber At-Risk,High,0.4739204836971108,105.1,34,Month-to-month,Fiber optic,Electronic check,Yes,597.7085140387961
+1379-FRVEB,Mid-Tenure Fiber At-Risk,High,0.5466203982136505,91.0,15,Month-to-month,Fiber optic,Electronic check,No,596.9094748493063
+5339-PXDVH,Mid-Tenure Fiber At-Risk,High,0.5475423205115486,90.65,4,Month-to-month,Fiber optic,Electronic check,No,595.6165362524627
+3692-JHONH,Premium Loyalists,High,0.4646981802938716,106.5,52,One year,Fiber optic,Electronic check,No,593.884274415568
+0817-HSUSE,Mid-Tenure Fiber At-Risk,Critical,0.6553502169978536,75.5,1,Month-to-month,DSL,Electronic check,Yes,593.7472966000553
+0899-LIIBW,Mid-Tenure Fiber At-Risk,High,0.4894541734809056,100.85,34,Month-to-month,Fiber optic,Electronic check,No,592.3374407465919
+2507-QZPQS,Mid-Tenure Fiber At-Risk,High,0.5156750103921984,95.7,15,Month-to-month,Fiber optic,Electronic check,Yes,592.2011819344008
+4854-CIDCF,New Fiber Switchers,Critical,0.6672031254078473,73.85,3,Month-to-month,Fiber optic,Electronic check,No,591.2754097364342
+6860-YRJZP,New Fiber Switchers,Critical,0.6628463606740418,74.05,9,Month-to-month,Fiber optic,Electronic check,No,589.0052760949535
+3030-YDNRM,New Fiber Switchers,Critical,0.65484527876275,74.85,8,Month-to-month,Fiber optic,Electronic check,No,588.182029384702
+0114-PEGZZ,Mid-Tenure Fiber At-Risk,High,0.4549240948640201,107.55,33,Month-to-month,Fiber optic,Electronic check,No,587.1250368315043
+9904-EHEVJ,Mid-Tenure Fiber At-Risk,High,0.5353495937893734,91.35,32,Month-to-month,Fiber optic,Mailed check,No,586.850224711911
+1469-LBJQJ,Premium Loyalists,High,0.4646131519103434,105.2,66,Month-to-month,Fiber optic,Electronic check,No,586.5276429716175
+6362-QHAFM,Premium Loyalists,High,0.4509651630007317,108.3,42,One year,Fiber optic,Electronic check,Yes,586.074325835751
+7823-JSOAG,New Fiber Switchers,Critical,0.6549612863814622,74.5,3,Month-to-month,Fiber optic,Electronic check,No,585.5353900250273
+6212-ATMLK,Premium Loyalists,High,0.5087499421282263,95.7,50,Month-to-month,Fiber optic,Electronic check,No,584.2484335400552
+4741-WWJQZ,New Fiber Switchers,High,0.6065811317344337,80.15,2,Month-to-month,Fiber optic,Electronic check,Yes,583.4097325021784
+5649-RXQTV,Premium Loyalists,High,0.4907624214280356,99.0,51,Month-to-month,Fiber optic,Electronic check,No,583.0257566565064
+0644-OQMDK,New Fiber Switchers,Critical,0.6857338147789281,70.65,4,Month-to-month,Fiber optic,Electronic check,No,581.3651281695753
+5666-CYCYZ,Mid-Tenure Fiber At-Risk,High,0.5409341729172185,89.55,24,Month-to-month,Fiber optic,Electronic check,Yes,581.2878622168429
+0674-DGMAQ,Mid-Tenure Fiber At-Risk,High,0.5180193292246089,93.5,32,Month-to-month,Fiber optic,Electronic check,No,581.2176873900112
+8873-GLDMH,New Fiber Switchers,Critical,0.6550419343769127,73.85,6,Month-to-month,Fiber optic,Mailed check,No,580.49816224482
+6198-RTPMF,Mid-Tenure Fiber At-Risk,High,0.5213577887470189,92.6,17,Month-to-month,Fiber optic,Electronic check,No,579.3327748556873
+4583-PARNH,Mid-Tenure Fiber At-Risk,High,0.5271929217770276,91.55,16,Month-to-month,Fiber optic,Electronic check,Yes,579.1741438642424
+9799-CAYJJ,New Fiber Switchers,Critical,0.696418803318829,69.3,2,Month-to-month,Fiber optic,Electronic check,No,579.1418768399382
+9054-FOWNV,Mid-Tenure Fiber At-Risk,High,0.5434879055788078,88.75,22,Month-to-month,Fiber optic,Electronic check,No,578.8146194414303
+4480-QQRHC,New Fiber Switchers,Critical,0.6508653951033667,74.05,8,Month-to-month,Fiber optic,Bank transfer (automatic),No,578.3589900888516
+2038-LLMLM,Premium Loyalists,High,0.4631903293717606,103.85,48,Month-to-month,Fiber optic,Electronic check,Yes,577.227788463088
+2460-NGXBJ,New Fiber Switchers,High,0.6393550811728084,75.2,11,Month-to-month,Fiber optic,Credit card (automatic),No,576.9540252503423
+8687-BAFGU,New Fiber Switchers,High,0.6496631935570597,74.0,1,Month-to-month,Fiber optic,Electronic check,Yes,576.900915878669
+3003-CMDUU,Mid-Tenure Fiber At-Risk,High,0.5046410430115164,95.15,25,Month-to-month,Fiber optic,Electronic check,Yes,576.1991429105494
+4128-ETESU,Premium Loyalists,High,0.4813824232937345,99.7,47,Month-to-month,Fiber optic,Electronic check,No,575.925931228624
+2692-BUCFV,Mid-Tenure Fiber At-Risk,High,0.472981911175281,101.45,29,Month-to-month,Fiber optic,Bank transfer (automatic),No,575.8081786647872
+6522-YRBXD,Mid-Tenure Fiber At-Risk,High,0.5070967197551631,94.55,35,Month-to-month,Fiber optic,Electronic check,No,575.3519382342081
+1508-DFXCU,New Fiber Switchers,High,0.5884000992564705,81.45,12,Month-to-month,Fiber optic,Electronic check,No,575.1022570132743
+7321-VGNKU,New Fiber Switchers,Critical,0.6811584480492865,70.35,2,Month-to-month,Fiber optic,Electronic check,No,575.0339618432076
+3853-LYGAM,Mid-Tenure Fiber At-Risk,High,0.4999602909194874,95.65,17,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,573.8544219173878
+3797-FKOGQ,New Fiber Switchers,High,0.5545446752018476,86.2,11,Month-to-month,Fiber optic,Electronic check,No,573.6210120287911
+3167-SNQPL,Mid-Tenure Fiber At-Risk,High,0.4720066600912554,101.15,38,Month-to-month,Fiber optic,Electronic check,No,572.921684018766
+8224-DWCKX,New Fiber Switchers,High,0.649633664302128,73.3,12,Month-to-month,Fiber optic,Credit card (automatic),No,571.4177711201518
+2227-JRSJX,Mid-Tenure Fiber At-Risk,High,0.4793394905504491,99.15,21,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,570.3181258569246
+4299-SIMNS,New Fiber Switchers,High,0.5855004011376459,81.15,9,Month-to-month,Fiber optic,Electronic check,No,570.1602906278396
+2067-QYTCF,Premium Loyalists,High,0.4272964456389456,111.15,64,Month-to-month,Fiber optic,Electronic check,Yes,569.9279991932258
+1608-GMEWB,Mid-Tenure Fiber At-Risk,High,0.5052166974356295,93.9,45,Month-to-month,Fiber optic,Bank transfer (automatic),No,569.2781746704674
+4176-FXYBO,Premium Loyalists,High,0.4330252023020351,109.55,54,Month-to-month,Fiber optic,Electronic check,No,569.2549309462553
+1319-YLZJG,Mid-Tenure Fiber At-Risk,High,0.5604069261405357,84.6,12,Month-to-month,Fiber optic,Electronic check,No,568.9251114178718
+3966-HRMZA,New Fiber Switchers,High,0.631480210352789,75.05,3,Month-to-month,Fiber optic,Mailed check,No,568.7110774437217
+3365-SAIGS,New Fiber Switchers,High,0.5664028577595415,83.55,17,Month-to-month,Fiber optic,Electronic check,No,567.8755051897163
+4998-IKFSE,Mid-Tenure Fiber At-Risk,High,0.4704600157613363,100.45,30,Month-to-month,Fiber optic,Electronic check,No,567.0925029987148
+7044-YAACC,New Fiber Switchers,Critical,0.6728285604636699,70.2,4,Month-to-month,Fiber optic,Electronic check,No,566.7907793345956
+1035-IPQPU,Premium Loyalists,High,0.4557350079335737,103.5,63,Month-to-month,Fiber optic,Electronic check,No,566.0228798534986
+9408-HRXRK,Premium Loyalists,High,0.4474878022530912,105.15,45,Month-to-month,Fiber optic,Electronic check,No,564.6401088829506
+9822-WMWVG,Premium Loyalists,High,0.4411655868732364,106.5,41,Month-to-month,Fiber optic,Electronic check,Yes,563.8096200239961
+2905-KFQUV,New Fiber Switchers,Critical,0.6670974853744244,70.4,2,Month-to-month,Fiber optic,Credit card (automatic),No,563.5639556443138
+0027-KWYKW,Mid-Tenure Fiber At-Risk,High,0.5607135070168443,83.75,23,Month-to-month,Fiber optic,Electronic check,No,563.5170745519285
+9773-PEQBZ,New Fiber Switchers,High,0.5877118144920181,79.85,10,Month-to-month,Fiber optic,Electronic check,No,563.1454606462518
+1475-VWVDO,New Fiber Switchers,High,0.6257686363986869,74.9,7,Month-to-month,Fiber optic,Electronic check,No,562.4408503951398
+5804-HYIEZ,Premium Loyalists,High,0.4417079332434616,106.05,70,Month-to-month,Fiber optic,Electronic check,No,562.1175158456292
+8104-OSKWT,New Fiber Switchers,High,0.5862376926448893,79.8,12,Month-to-month,Fiber optic,Electronic check,No,561.381214476746
+4690-PKDQG,Mid-Tenure Fiber At-Risk,High,0.4890782622365439,95.55,42,Month-to-month,Fiber optic,Electronic check,No,560.7771354804212
+9717-QEBGU,New Fiber Switchers,Critical,0.6636906419832006,70.3,2,Month-to-month,Fiber optic,Electronic check,No,559.889425577028
+7233-DRTRF,Premium Loyalists,High,0.4546944563844421,102.4,63,Month-to-month,Fiber optic,Electronic check,No,558.7285480052026
+7278-CKDNC,Mid-Tenure Fiber At-Risk,High,0.577639971638775,80.5,24,Month-to-month,Fiber optic,Electronic check,No,558.0002126030566
+6175-IRFIT,New Fiber Switchers,High,0.5887909537013062,78.75,5,Month-to-month,Fiber optic,Mailed check,No,556.4074512477343
+5019-GQVCR,Mid-Tenure Fiber At-Risk,High,0.5455278701651688,84.85,43,Month-to-month,Fiber optic,Electronic check,No,555.4564774021749
+9971-ZWPBF,Premium Loyalists,High,0.4249467594591039,108.9,34,Month-to-month,Fiber optic,Electronic check,Yes,555.3204252611571
+7072-MBHEV,New Fiber Switchers,High,0.5910791102337234,78.1,11,Month-to-month,Fiber optic,Credit card (automatic),No,553.9593421110455
+5271-DBYSJ,New Fiber Switchers,High,0.5831906827762929,79.15,11,Month-to-month,Fiber optic,Credit card (automatic),No,553.914510500923
+1833-TCXKK,Premium Loyalists,High,0.4283306076229076,107.75,45,Month-to-month,Fiber optic,Bank transfer (automatic),No,553.8314756564196
+5331-RGMTT,Premium Loyalists,High,0.465463905339199,99.05,54,Month-to-month,Fiber optic,Credit card (automatic),No,553.250397886172
+5989-PGKJB,New Fiber Switchers,High,0.5343557855333819,86.25,16,Month-to-month,Fiber optic,Electronic check,No,553.0582380270503
+4450-DLLMH,New Fiber Switchers,High,0.6461312576158014,71.3,2,Month-to-month,Fiber optic,Credit card (automatic),No,552.8299040160796
+6818-DJXAA,Mid-Tenure Fiber At-Risk,High,0.5055264739951222,91.1,10,Month-to-month,Fiber optic,Electronic check,Yes,552.6415413714675
+3352-ALMCK,Premium Loyalists,High,0.4470454045756593,102.65,40,Month-to-month,Fiber optic,Mailed check,No,550.6705293562972
+0018-NYROU,New Fiber Switchers,Critical,0.6653275688896679,68.95,5,Month-to-month,Fiber optic,Electronic check,No,550.4920304993113
+5716-LIBJC,Mid-Tenure Fiber At-Risk,High,0.440200993036774,104.15,13,One year,Fiber optic,Credit card (automatic),No,550.1632010973602
+5899-OUVKV,Mid-Tenure Fiber At-Risk,High,0.4846644422122341,94.5,31,Month-to-month,Fiber optic,Electronic check,No,549.6094774686735
+5628-FCGYG,Mid-Tenure Fiber At-Risk,High,0.544223379428049,84.1,21,Month-to-month,Fiber optic,Electronic check,No,549.230234518787
+0508-OOLTO,New Fiber Switchers,High,0.6387818244335034,71.65,2,Month-to-month,Fiber optic,Electronic check,No,549.2246126479263
+2800-VEQXM,New Fiber Switchers,High,0.6121419773494824,74.75,3,Month-to-month,Fiber optic,Mailed check,No,549.0913536824858
+5439-WIKXB,Mid-Tenure Fiber At-Risk,High,0.4838752641105316,94.55,41,Month-to-month,Fiber optic,Electronic check,No,549.0048746598092
+2144-BFDSO,Premium Loyalists,High,0.4200425292038955,108.75,50,Month-to-month,Fiber optic,Bank transfer (automatic),No,548.1555006110838
+2495-KZNFB,Mid-Tenure Fiber At-Risk,High,0.5037519482734969,90.65,33,Month-to-month,Fiber optic,Electronic check,No,547.9813693319101
+1307-ATKGB,Mid-Tenure Fiber At-Risk,High,0.5068811950507442,89.55,24,Month-to-month,Fiber optic,Electronic check,No,544.6945322015297
+5628-RKIFK,Premium Loyalists,High,0.4469482598711154,101.55,49,Month-to-month,Fiber optic,Credit card (automatic),No,544.6511494789412
+9633-XQABV,New Fiber Switchers,High,0.6457207732739387,70.25,3,Month-to-month,Fiber optic,Electronic check,No,544.3426118699304
+6551-GNYDG,New Fiber Switchers,High,0.560595387551886,80.9,14,Month-to-month,Fiber optic,Bank transfer (automatic),No,544.226002235371
+3567-PQTSO,Premium Loyalists,High,0.4293626835221582,105.25,53,One year,Fiber optic,Electronic check,No,542.2850692884858
+6507-ZJSUR,Mid-Tenure Fiber At-Risk,High,0.4995922043051668,90.45,23,Month-to-month,Fiber optic,Electronic check,No,542.2573785528281
+0315-LVCRK,New Fiber Switchers,High,0.532690865436942,84.8,11,Month-to-month,Fiber optic,Electronic check,No,542.0662246686321
+6710-HSJRD,Premium Loyalists,Medium,0.3958594228953434,114.1,61,Month-to-month,Fiber optic,Electronic check,Yes,542.0107218283041
+1552-AAGRX,Mid-Tenure Fiber At-Risk,High,0.4244680040323774,106.4,30,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,541.9607475485396
+8384-FZBJK,Premium Loyalists,High,0.4489072804794122,100.6,57,Month-to-month,Fiber optic,Electronic check,No,541.9208689947463
+3062-ICYZQ,Premium Loyalists,High,0.4811050788277784,93.8,51,Month-to-month,Fiber optic,Electronic check,No,541.5318767285473
+0691-NIKRI,Premium Loyalists,High,0.4257809685957398,105.95,40,One year,Fiber optic,Credit card (automatic),Yes,541.3379234726236
+3312-UUMZW,Mid-Tenure Fiber At-Risk,High,0.4562421545424036,98.85,32,Month-to-month,Fiber optic,Credit card (automatic),No,541.1944437181991
+5652-MSDEY,New Fiber Switchers,High,0.5950082621509368,75.75,10,Month-to-month,Fiber optic,Mailed check,No,540.8625102952016
+5405-ZMYXQ,New Fiber Switchers,High,0.6032738325484217,74.6,8,Month-to-month,Fiber optic,Credit card (automatic),No,540.0507348973471
+9058-MJLZC,Mid-Tenure Fiber At-Risk,High,0.4753994504817256,94.6,24,Month-to-month,Fiber optic,Electronic check,No,539.6734561868549
+0620-DLSLK,New Fiber Switchers,High,0.5481164759950689,81.9,13,Month-to-month,Fiber optic,Mailed check,No,538.6888726079537
+7722-CVFXN,Premium Loyalists,High,0.4263696140145567,105.2,54,One year,Fiber optic,Electronic check,Yes,538.2490007319764
+3914-FDRHP,New Fiber Switchers,High,0.5200287207764482,86.25,9,Month-to-month,Fiber optic,Electronic check,Yes,538.2297260036239
+2452-KDRRH,Premium Loyalists,High,0.4418167790061829,101.4,67,Month-to-month,Fiber optic,Credit card (automatic),No,537.6026566947235
+6077-BDPXA,New Fiber Switchers,High,0.6381900927815662,70.15,3,Month-to-month,Fiber optic,Electronic check,No,537.2284201035225
+1754-GKYPY,Mid-Tenure Fiber At-Risk,High,0.4988170097159807,89.75,22,Month-to-month,Fiber optic,Bank transfer (automatic),No,537.2259194641113
+5442-BHQNG,New Fiber Switchers,High,0.635562368170831,70.35,2,Month-to-month,Fiber optic,Electronic check,No,536.5417512098155
+0112-QAWRZ,Mid-Tenure Fiber At-Risk,High,0.4917618577891861,90.8,16,Month-to-month,Fiber optic,Bank transfer (automatic),No,535.8237202470971
+2080-GKCWQ,New Fiber Switchers,High,0.5952110972140374,74.95,2,Month-to-month,Fiber optic,Electronic check,No,535.3328608343053
+9885-AIBVB,Mid-Tenure Fiber At-Risk,High,0.519224232033736,85.8,29,Month-to-month,Fiber optic,Electronic check,No,534.5932693019346
+6719-OXYBR,New Fiber Switchers,High,0.5221249490107464,85.3,15,Month-to-month,Fiber optic,Electronic check,No,534.4470978073999
+2739-CACDQ,New Fiber Switchers,High,0.5384713886137039,82.65,17,Month-to-month,Fiber optic,Credit card (automatic),No,534.0559232270716
+4612-SSVHJ,New Fiber Switchers,High,0.5463117322184816,81.45,20,Month-to-month,Fiber optic,Electronic check,No,533.965087070344
+2916-BQZLN,Mid-Tenure Fiber At-Risk,High,0.524779145944663,84.75,19,Month-to-month,Fiber optic,Electronic check,No,533.7003914257223
+8212-DJRCH,Mid-Tenure Fiber At-Risk,High,0.4922295585230183,90.35,5,Month-to-month,Fiber optic,Mailed check,No,533.6752873506564
+4521-YEEHE,Mid-Tenure Fiber At-Risk,High,0.49986685241415,88.85,18,Month-to-month,Fiber optic,Electronic check,Yes,532.9580380439667
+2468-SJFLM,New Fiber Switchers,High,0.5976850370137169,74.3,1,Month-to-month,Fiber optic,Mailed check,Yes,532.89597900143
+5989-AXPUC,Premium Loyalists,Medium,0.3733130852483866,118.6,68,Two year,Fiber optic,Mailed check,Yes,531.2991829255038
+3370-GQEAL,Mid-Tenure Fiber At-Risk,High,0.517679484830821,85.45,30,Month-to-month,Fiber optic,Electronic check,No,530.8285437455239
+7206-PQBBZ,New Fiber Switchers,High,0.6296147292737124,70.2,11,Month-to-month,Fiber optic,Electronic check,No,530.3874479401754
+8981-FJGLA,New Fiber Switchers,High,0.565590077479506,78.0,11,Month-to-month,Fiber optic,Mailed check,No,529.3923125208175
+4183-MYFRB,Mid-Tenure Fiber At-Risk,High,0.4891463467071903,90.05,21,Month-to-month,Fiber optic,Electronic check,No,528.5715422517898
+8325-QRPZR,New Fiber Switchers,High,0.584226723085452,75.15,7,Month-to-month,Fiber optic,Electronic check,No,526.8556588784606
+2277-DJJDL,Premium Loyalists,High,0.4434318920081312,99.0,60,Month-to-month,Fiber optic,Electronic check,Yes,526.7970877056599
+4553-DVPZG,Premium Loyalists,High,0.4325617525281888,101.35,62,Month-to-month,Fiber optic,Electronic check,No,526.0816034247832
+2799-ARNLO,New Fiber Switchers,High,0.6319425681855912,69.35,5,Month-to-month,Fiber optic,Electronic check,No,525.902605244049
+4840-ORQXB,Premium Loyalists,High,0.4181660360160825,104.75,56,Month-to-month,Fiber optic,Electronic check,No,525.6347072722157
+0265-PSUAE,Mid-Tenure Fiber At-Risk,High,0.4348868323080173,100.7,16,Month-to-month,Fiber optic,Bank transfer (automatic),No,525.5172481610081
+8152-UOBNY,Premium Loyalists,High,0.409188306867122,106.8,50,One year,Fiber optic,Electronic check,Yes,524.4157340809035
+5606-AMZBO,New Fiber Switchers,High,0.5579885841108321,78.15,10,Month-to-month,Fiber optic,Credit card (automatic),No,523.2816941791384
+1730-ZMAME,New Fiber Switchers,High,0.5483339071034141,79.5,32,Month-to-month,Fiber optic,Electronic check,No,523.1105473766571
+0082-OQIQY,Mid-Tenure Fiber At-Risk,High,0.462480574376364,94.2,29,Month-to-month,Fiber optic,Electronic check,Yes,522.7880412750419
+3524-WQDSG,Mid-Tenure Fiber At-Risk,High,0.4376461169017812,99.3,43,Month-to-month,Fiber optic,Bank transfer (automatic),No,521.4991129001625
+6339-YPSAH,New Fiber Switchers,High,0.5877297332038793,73.8,9,Month-to-month,Fiber optic,Electronic check,No,520.4934517253555
+3130-ICDUP,New Fiber Switchers,High,0.5377588991742698,80.55,2,Month-to-month,Fiber optic,Credit card (automatic),No,519.7977519418491
+8695-ARGXZ,New Fiber Switchers,High,0.5724723170594594,75.55,34,Month-to-month,Fiber optic,Electronic check,No,519.0034026461059
+8058-DMYRU,Premium Loyalists,High,0.4801121307611046,90.05,54,Month-to-month,Fiber optic,Electronic check,No,518.8091685004496
+2187-PKZAY,New Fiber Switchers,High,0.5403861105278754,79.95,12,Month-to-month,Fiber optic,Bank transfer (automatic),No,518.4464344404438
+5857-TYBCJ,Mid-Tenure Fiber At-Risk,High,0.4843377415379363,89.2,44,Month-to-month,Fiber optic,Electronic check,No,518.4351185422071
+6458-CYIDZ,New Fiber Switchers,High,0.5351234214556048,80.7,5,Month-to-month,Fiber optic,Electronic check,No,518.2135213376077
+0455-XFASS,New Fiber Switchers,High,0.6203611890424606,69.55,3,Month-to-month,Fiber optic,Electronic check,No,517.7534483748376
+3174-RKMOW,Premium Loyalists,Medium,0.3922047806728664,109.95,35,Month-to-month,Fiber optic,Electronic check,Yes,517.47498761978
+3197-ARFOY,Mid-Tenure Fiber At-Risk,High,0.4100494587851724,105.0,19,Month-to-month,Fiber optic,Mailed check,Yes,516.6623180693173
+1658-TJVOA,New Fiber Switchers,High,0.57945186252834,74.1,6,Month-to-month,Fiber optic,Electronic check,No,515.2485961601999
+2208-UGTGR,Premium Loyalists,High,0.4351490671995645,98.6,56,Month-to-month,Fiber optic,Electronic check,No,514.8683763105247
+2027-CWDNU,Mid-Tenure Fiber At-Risk,High,0.5009784210318915,85.6,18,Month-to-month,Fiber optic,Electronic check,Yes,514.6050340839588
+4220-TINQT,Premium Loyalists,High,0.4032297178739036,106.35,61,Month-to-month,Fiber optic,Electronic check,Yes,514.6017659506758
+5119-NZPTV,New Fiber Switchers,High,0.6114910827574157,70.1,2,Month-to-month,Fiber optic,Electronic check,No,514.386298815538
+7245-NIIWQ,New Fiber Switchers,High,0.6133636376079338,69.85,3,Month-to-month,Fiber optic,Electronic check,No,514.1214010429701
+3411-WLRSQ,New Fiber Switchers,High,0.5741965970655243,74.6,3,Month-to-month,Fiber optic,Bank transfer (automatic),No,514.0207936930573
+5153-RTHKF,Mid-Tenure Fiber At-Risk,High,0.501861199671939,85.35,34,Month-to-month,Fiber optic,Electronic check,No,514.0062407039998
+5129-JLPIS,Mid-Tenure Fiber At-Risk,High,0.4056138214932722,105.5,25,Month-to-month,Fiber optic,Electronic check,Yes,513.5070980104827
+6988-CJEYV,Premium Loyalists,High,0.4329454456736721,98.7,49,Month-to-month,Fiber optic,Electronic check,No,512.7805858558974
+5609-IMCGG,Mid-Tenure Fiber At-Risk,High,0.5064192319404963,84.35,15,Month-to-month,Fiber optic,Credit card (automatic),No,512.5975465701704
+3703-KBKZP,New Fiber Switchers,High,0.5735962587342751,74.45,16,Month-to-month,Fiber optic,Bank transfer (automatic),No,512.4508975532015
+7682-AZNDK,Mid-Tenure Fiber At-Risk,High,0.4752428520433614,89.85,34,Month-to-month,Fiber optic,Electronic check,No,512.4068430731522
+5982-FPVQN,Mid-Tenure Fiber At-Risk,High,0.4475428695163815,95.15,37,Month-to-month,Fiber optic,Electronic check,No,511.0044484138045
+5650-YLIBA,Mid-Tenure Fiber At-Risk,High,0.5239212472216901,81.15,31,Month-to-month,Fiber optic,Electronic check,No,510.1945105444818
+8123-QBNAZ,Mid-Tenure Fiber At-Risk,High,0.4066493784412713,104.5,36,Month-to-month,Fiber optic,Credit card (automatic),No,509.9383205653542
+5174-ITUMV,Premium Loyalists,High,0.4025494871100508,105.4,67,One year,Fiber optic,Electronic check,No,509.1445912967923
+5760-FXFVO,New Fiber Switchers,High,0.5373456956278574,78.95,6,Month-to-month,Fiber optic,Electronic check,No,509.08131203783216
+9699-UBQFS,Mid-Tenure Fiber At-Risk,High,0.448733388452288,94.5,43,Month-to-month,Fiber optic,Electronic check,No,508.86366250489465
+6741-EGCBI,Mid-Tenure Fiber At-Risk,High,0.4685211543255839,90.5,30,Month-to-month,Fiber optic,Credit card (automatic),No,508.81397359758415
+5302-BDJNT,Mid-Tenure Fiber At-Risk,High,0.4438035879281173,95.5,35,Month-to-month,Fiber optic,Electronic check,Yes,508.5989117656225
+3420-ZDBMA,New Fiber Switchers,High,0.5920059293823443,71.45,5,Month-to-month,Fiber optic,Mailed check,No,507.58588385242206
+5399-ZIMKF,New Fiber Switchers,High,0.5660757266283365,74.65,5,Month-to-month,Fiber optic,Electronic check,No,507.0906359136639
+2360-RDGRO,Premium Loyalists,High,0.4044532654234445,104.25,65,Month-to-month,Fiber optic,Electronic check,No,505.9710350447291
+6198-ZFIOJ,New Fiber Switchers,High,0.5577184026739559,75.6,5,Month-to-month,Fiber optic,Electronic check,No,505.9621349058128
+3323-CPBWR,Mid-Tenure Fiber At-Risk,High,0.4348195341811361,96.9,23,Month-to-month,Fiber optic,Credit card (automatic),Yes,505.6081543458252
+4983-CCWMC,New Fiber Switchers,High,0.6052359849492223,69.6,3,Month-to-month,Fiber optic,Mailed check,No,505.4930946295904
+9659-QEQSY,Premium Loyalists,Medium,0.3636583079565662,115.65,45,Month-to-month,Fiber optic,Electronic check,Yes,504.6849997821226
+0674-EYYZV,New Fiber Switchers,Critical,0.7690973189142022,54.65,1,Month-to-month,DSL,Electronic check,No,504.3740217439338
+1550-EENBN,Mid-Tenure Fiber At-Risk,High,0.4021437227614693,104.35,31,Month-to-month,Fiber optic,Electronic check,No,503.5643696419119
+7130-YXBRO,Premium Loyalists,Medium,0.3764594101393068,111.45,48,Month-to-month,Fiber optic,Bank transfer (automatic),No,503.4768151203089
+8564-LDKFL,Premium Loyalists,Medium,0.3953160767043301,106.0,40,One year,Fiber optic,Bank transfer (automatic),No,502.8420495679079
+7813-ZGGAW,Mid-Tenure Fiber At-Risk,High,0.4336117126599624,96.6,31,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,502.64269731542834
+2672-TGEFF,Mid-Tenure Fiber At-Risk,High,0.4710844065981643,88.8,37,Month-to-month,Fiber optic,Electronic check,No,501.9875436710039
+1482-OXZSY,Mid-Tenure Fiber At-Risk,High,0.4165594760958442,100.4,30,Month-to-month,Fiber optic,Bank transfer (automatic),No,501.8708568002732
+8631-WUXGY,Premium Loyalists,High,0.4187862583564083,99.8,46,Month-to-month,Fiber optic,Electronic check,No,501.53842300763455
+5118-MUEYH,Premium Loyalists,Medium,0.3974074190879457,105.1,48,Month-to-month,Fiber optic,Credit card (automatic),Yes,501.21023695371713
+2694-CIUMO,New Fiber Switchers,High,0.523795262609657,79.55,12,Month-to-month,Fiber optic,Credit card (automatic),Yes,500.01495768717854
+7020-OZKXZ,New Fiber Switchers,High,0.5515597357566219,75.5,9,Month-to-month,Fiber optic,Credit card (automatic),No,499.7131205954994
+0439-IFYUN,New Fiber Switchers,High,0.5573258139881984,74.7,18,Month-to-month,Fiber optic,Electronic check,No,499.58685965902106
+7789-HKSBS,Premium Loyalists,Medium,0.3951746508461756,105.2,42,One year,Fiber optic,Bank transfer (automatic),No,498.8684792282121
+1016-DJTSV,New Fiber Switchers,High,0.5958795869540684,69.7,8,Month-to-month,Fiber optic,Electronic check,No,498.3936865283829
+1077-HUUJM,New Fiber Switchers,High,0.5820800862078173,71.05,7,Month-to-month,Fiber optic,Electronic check,No,496.2814815007849
+0196-JTUQI,New Fiber Switchers,High,0.5495906090574461,75.2,9,Month-to-month,Fiber optic,Credit card (automatic),No,495.9505656134394
+3312-ZWLGF,Mid-Tenure Fiber At-Risk,High,0.5208835711507852,79.3,29,Month-to-month,Fiber optic,Electronic check,Yes,495.6728063070872
+5501-TVMGM,New Fiber Switchers,Critical,0.747193269151389,55.25,1,Month-to-month,DSL,Electronic check,No,495.3891374473709
+2604-IJPDU,Mid-Tenure Fiber At-Risk,High,0.4272931492986966,96.55,20,Month-to-month,Fiber optic,Electronic check,Yes,495.06184277746985
+1013-QCWAM,Premium Loyalists,High,0.4087454567777915,100.8,66,Month-to-month,Fiber optic,Electronic check,No,494.41850451841657
+5035-PGZXH,Premium Loyalists,Medium,0.3857556289085833,106.8,56,One year,Fiber optic,Electronic check,No,494.38441400924034
+6481-ESCNL,Mid-Tenure Fiber At-Risk,High,0.4088605409464851,100.55,29,Month-to-month,Fiber optic,Bank transfer (automatic),No,493.3311287060289
+3453-RTHJQ,New Fiber Switchers,High,0.5940148838101581,69.1,6,Month-to-month,Fiber optic,Electronic check,No,492.5571416553831
+6862-CQUMB,Mid-Tenure Fiber At-Risk,High,0.4269453263507695,96.1,37,Month-to-month,Fiber optic,Credit card (automatic),No,492.3533503477073
+6260-ONULR,New Fiber Switchers,Critical,0.6532544162047685,62.8,1,Month-to-month,DSL,Mailed check,No,492.2925280519135
+0111-KLBQG,Mid-Tenure Fiber At-Risk,High,0.4364786553425802,93.95,32,Month-to-month,Fiber optic,Mailed check,No,492.086036033225
+6705-LXORM,New Fiber Switchers,High,0.585248290662439,70.05,5,Month-to-month,Fiber optic,Electronic check,No,491.9597131308462
+8270-RKSAP,New Fiber Switchers,High,0.5806045190300112,70.5,9,Month-to-month,Fiber optic,Electronic check,No,491.1914230993895
+6693-FRIRW,Mid-Tenure Fiber At-Risk,High,0.4034615902595193,101.3,18,Month-to-month,Fiber optic,Credit card (automatic),No,490.44790911947166
+9494-MRNYX,New Fiber Switchers,High,0.5433994660020114,75.05,10,Month-to-month,Fiber optic,Electronic check,No,489.3855590814114
+4291-SHSBH,New Fiber Switchers,High,0.5862606520027785,69.55,7,Month-to-month,Fiber optic,Electronic check,No,489.2931401615189
+4647-MUZON,Mid-Tenure Fiber At-Risk,High,0.4247283153582039,95.95,18,Month-to-month,Fiber optic,Credit card (automatic),No,489.03218230343606
+5022-KVDQT,Mid-Tenure Fiber At-Risk,High,0.5011825896663579,81.3,27,Month-to-month,Fiber optic,Electronic check,No,488.9537344784987
+8468-EHYJA,Premium Loyalists,High,0.4079611491330318,99.65,57,Month-to-month,Fiber optic,Electronic check,No,487.83994213327946
+4488-KQFDT,Premium Loyalists,Medium,0.3907280621535251,103.95,61,One year,Fiber optic,Electronic check,No,487.3941847303073
+9822-OAOVB,New Fiber Switchers,Critical,0.7323011885503875,55.45,1,Month-to-month,DSL,Electronic check,No,487.2732108614279
+1346-UFHAX,New Fiber Switchers,High,0.5072920750185814,80.0,13,Month-to-month,Fiber optic,Credit card (automatic),No,487.0003920178382
+3717-OEAUQ,New Fiber Switchers,High,0.5727802243464034,70.7,2,Month-to-month,Fiber optic,Mailed check,No,485.9467423354887
+4947-DSMXK,Mid-Tenure Fiber At-Risk,High,0.4139203856557758,97.7,34,Month-to-month,Fiber optic,Bank transfer (automatic),No,485.2802601428316
+9576-SYUHJ,Mid-Tenure Fiber At-Risk,High,0.4434203619421745,91.15,37,Month-to-month,Fiber optic,Electronic check,No,485.01319189235056
+1384-RCUXW,New Fiber Switchers,High,0.5014932492770815,80.55,16,Month-to-month,Fiber optic,Mailed check,No,484.74337475122695
+0570-BFQHT,New Fiber Switchers,High,0.5014867555826854,80.55,9,Month-to-month,Fiber optic,Electronic check,No,484.7370979462237
+5022-JNQEQ,New Fiber Switchers,High,0.5320104131285458,75.85,9,Month-to-month,Fiber optic,Electronic check,Yes,484.2358780296024
+3223-DWFIO,New Fiber Switchers,High,0.5811722138563965,69.35,4,Month-to-month,Fiber optic,Electronic check,No,483.6515163712932
+5461-QKNTN,Mid-Tenure Fiber At-Risk,High,0.4269074591449181,94.3,43,Month-to-month,Fiber optic,Electronic check,Yes,483.0884807683893
+4301-VVZKA,New Fiber Switchers,High,0.5332464903767402,75.4,16,Month-to-month,Fiber optic,Electronic check,No,482.48142449287457
+5141-ZUVBH,Mid-Tenure Fiber At-Risk,High,0.4323277735716131,93.0,9,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,482.4777953059203
+0481-SUMCB,Premium Loyalists,Medium,0.3932685294018079,102.15,45,One year,Fiber optic,Bank transfer (automatic),No,482.06856334073626
