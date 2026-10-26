@@ -1,12 +1,8 @@
 # Customer Churn & Segmentation - Telco (CRM Analytics Project)
 
-**Prepared by: Anurag Moyal**
+**Author: Anurag Moyal** · Data Analytics Portfolio Project
 
-> Hi Anurag - this is your complete churn and segmentation project: cleaned data, analysis, models, a written report, and everything you need to build the Power BI dashboard and Orange workflow yourself. Start with `report/Churn_Analysis_Report.docx`, open `outputs/Churn_Dashboard.html` in your browser to see the finished interactive dashboard (double-click it), then follow the two guides (Power BI needs only ~30-45 min: everything is pre-built in `outputs/powerbi/`) in `docs/`. Make sure you understand the method (see below) so you can explain every step confidently in an interview. All the best!
-
-**Author: Anurag Moyal**
-
-End-to-end analysis for a CRM / retention team: **who is leaving, why, who is worth saving, and what to do about it.**
+End-to-end analysis for a CRM / retention team: **who is leaving, why, who is worth saving, and what to do about it.** Start with `report/Churn_Analysis_Report.docx`, open `outputs/Churn_Dashboard.html` in your browser to see the interactive dashboard, then follow the two guides in `docs/` to build the Power BI dashboard and Orange workflow.
 
 **Headline result:** *Identified 2 high-risk segments (43% of customers) that generate 71% of all churn and 76% of lost
 revenue, built a churn model (AUC 0.85) that finds 50% of churners in the riskiest 20% of customers, and proposed
