@@ -1,6 +1,6 @@
 # Customer Churn & Segmentation - Telco (CRM Analytics Project)
 
-**Author: Anurag Moyal** · Data Analytics Portfolio Project
+Author: Anurag Moyal
 
 End-to-end analysis for a CRM / retention team: **who is leaving, why, who is worth saving, and what to do about it.** Start with `report/Churn_Analysis_Report.docx`, open `outputs/Churn_Dashboard.html` in your browser to see the interactive dashboard, then follow the two guides in `docs/` to build the Power BI dashboard and Orange workflow.
 
@@ -42,10 +42,10 @@ Data was cleaned (11 blank `TotalCharges` = brand-new customers, set to 0), then
 chi-square / Cramer's V and Mann-Whitney tests. Because the data is a snapshot with no purchase history, **RFM was
 adapted**: Recency -> *tenure*, Frequency -> *number of services held*, Monetary -> *monthly charge*. K-Means on the
 standardised features (k=5, chosen from elbow/silhouette/business usability) gave five named segments. Four churn models
-were compared with 5-fold stratified CV and a held-out 20% test set; the winner scores every customer with honest
+were compared with 5-fold stratified CV and a held-out 20% test set; the winner scores every customer with
 out-of-fold probabilities, and the contact threshold is chosen from retention economics rather than a default 0.5.
 
-## Honest limitations
+## Limitations
 * Telco is a single snapshot: no real recency, no time dimension, so we can't model *when* churn happens.
 * Economics (`$40` per outreach, `25%` offer acceptance, `12` months saved) are **assumptions** - edit them in
   `src/step3_model.py` and re-run; the real values should come from the CRM/finance team.

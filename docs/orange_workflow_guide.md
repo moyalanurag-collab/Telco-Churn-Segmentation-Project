@@ -24,11 +24,11 @@ File -> Distributions / Box Plot / Mosaic Display    (EDA: Contract, InternetSer
 Settings: in **Test and Score** use *Cross validation, 5 folds, stratified*; set **Target class = Yes**.
 Open **ROC Analysis** and tick *Show convex ROC hull*.
 
-## What you should see (Python results for comparison)
+## Expected results (for comparison with the Python models)
 Cross-validated AUC is about 0.845-0.849 for logistic regression, random forest, gradient boosting and XGBoost,
 so the models are close; kNN and Naive Bayes are typically a bit lower. Top ranked features: **Contract, tenure,
-InternetService, MonthlyCharges, TotalCharges**. If Orange shows the same ordering, you have confirmed the Python
-findings with a second, independent tool - say that in the write-up.
+InternetService, MonthlyCharges, TotalCharges**. Orange showing the same ordering confirms the Python findings
+with a second, independent tool.
 
 ## Save
-File -> Save as `Telco_Churn_Orange_Workflow.ows`, and screenshot the ROC Analysis and Rank widgets for the report.
+File -> Save as `Telco_Churn_Orange_Workflow.ows`.

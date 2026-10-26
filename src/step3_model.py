@@ -77,7 +77,7 @@ axes[1].set(title="Precision-recall curves", xlabel="Recall", ylabel="Precision"
 axes[1].legend()
 save(fig, "11_roc_pr_curves.png")
 
-# honest out-of-fold risk score for EVERY customer (used by the dashboard)
+# out-of-fold risk score for EVERY customer (used by the dashboard)
 champ = models[best]
 oof = cross_val_predict(champ, X, y, cv=cv, method="predict_proba")[:, 1]
 df["churn_probability"] = oof
