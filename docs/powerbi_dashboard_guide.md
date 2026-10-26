@@ -45,9 +45,9 @@ Open `DAX_measures.txt` and create each line as a new measure (Home > New measur
 * Table from `TargetList` sorted by `expected_annual_revenue_at_risk` descending; slicers `Segment`, `risk_band`
 
 ## Step 5 - Finish
-File > Save as `Telco_Churn_Dashboard.pbix`. Export PDF (File > Export) and screenshot each page for your portfolio / CV.
+File > Save as `Telco_Churn_Dashboard.pbix`. Export PDF (File > Export) if you need a static copy.
 
-## Notes for explaining it
-* Risk bands: Low <15%, Medium 15-40%, High 40-65%, Critical >65% predicted churn probability (out-of-fold model scores, so honest).
+## Notes
+* Risk bands: Low <15%, Medium 15-40%, High 40-65%, Critical >65% predicted churn probability (out-of-fold model scores).
 * `expected_annual_revenue_at_risk` = churn probability x monthly charge x 12.
 * Campaign economics ($40 per contact, 25% acceptance, 12 months saved) are assumptions, not company facts.
